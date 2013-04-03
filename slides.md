@@ -63,7 +63,8 @@ Answer with
 * Stupid question, unsure, abstain, &c.
 
 
-an example
+## Stop, Question, Frisk
+[![A chart](sqf.png)](http://www.guardian.co.uk/world/interactive/2012/mar/30/nypd-stop-and-frisk-marijuana-data)
 
 
 another example
@@ -99,25 +100,27 @@ a few
 examples
 
 
-including fms symphony
-
+## FMS Symphony
+[![FMS Symphony](fms-symphony.png)](http://fms.csvsoundsystem.com)
 
 
 # Story-telling
 I think interactivity is about finding your own stories.
 
 
-Non-news examples
-
-
 ## Journalism
 Journalists tell stories because people understand stories.
 
+## Reading your tax bill
+[![Screenshot of a tax bill website reader thingy](taxbill.png)]http://thomaslevine.com/!/scarsdale-tax-bill/)
 
-## [Dollars for Docs](http://projects.propublica.org/docdollars/)
+
+## Dollars for Docs
+[![Screenshot of Dollars for Docs](docdollars.png)](http://projects.propublica.org/docdollars/)
 
 
-Static images that do this
+## Holiday gift guide
+[![Holiday gift guide flowchart](giftguide.png)](http://www.thedailybeast.com/articles/2012/12/06/2012-interactive-holiday-gift-guide-tech-fashion-and-more.html)
 
 
 ...
