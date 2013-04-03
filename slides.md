@@ -104,6 +104,7 @@ Answer with
 <iframe src="http://embed.verite.co/timeline/?source=0AifB8e3wY7YKdEd4N25RMjRNdjBHYnNtdzlNZnlnb0E&font=Bevan-PotanoSans&maptype=toner&lang=es&start_at_slide=270&width=645&height=650" width="100%" height="100%" frameborder="0"></iframe>
 
 
+
 # Faking interactivity
 
 
@@ -115,8 +116,9 @@ Answer with
 [![A chart](sqf.png)](http://www.guardian.co.uk/world/interactive/2012/mar/30/nypd-stop-and-frisk-marijuana-data)
 
 
-# Finding stories
-I think interactivity is about finding your own stories.
+
+# Finding your own stories
+I think this is what interactivity is about.
 
 
 ## Reading your tax bill
@@ -131,10 +133,12 @@ I think interactivity is about finding your own stories.
 [![Holiday gift guide flowchart](giftguide.png)](http://www.thedailybeast.com/articles/2012/12/06/2012-interactive-holiday-gift-guide-tech-fashion-and-more.html)
 
 
-...
-
 
 # Summarizing Tom's theory about the word "interactivity"
+Meaning of "interactivity"
 * When people seek "interactivity", they want to create or find their own stories.
 * Flashy things with movement give people an illusion of personalized story-telling.
+
+Further thoughts
 * Under this definition, static text or image can be interactive.
+* People understand stories, and people like stories about themselves.
