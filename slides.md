@@ -71,7 +71,8 @@ Answer with
 <iframe src="http://embed.verite.co/timeline/?source=0AifB8e3wY7YKdEd4N25RMjRNdjBHYnNtdzlNZnlnb0E&font=Bevan-PotanoSans&maptype=toner&lang=es&start_at_slide=270&width=645&height=650" width="100%" height="100%" frameborder="0"></iframe>
 
 
-another example
+## Motivators of Protest
+[![A line plot](occupar.png)](http://occupydatanyc.org/2013/03/14/external-stresses-mediate-an-association-between-negative-perception-of-activism-and-a-decision-never-to-participate/)
 
 
 
@@ -108,9 +109,6 @@ examples
 # Story-telling
 I think interactivity is about finding your own stories.
 
-
-## Journalism
-Journalists tell stories because people understand stories.
 
 ## Reading your tax bill
 [![Screenshot of a tax bill website reader thingy](taxbill.png)]http://thomaslevine.com/!/scarsdale-tax-bill/)
