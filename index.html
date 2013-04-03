@@ -71,6 +71,16 @@
 			});
 
 		</script>
+		<script>
+            document.body.addEventListener('onload', function(){
+                var as = document.getElementsByTagName('a')
+                var a
+                for (var i = 0; i < as.length; i++) {
+                    a = as[i]
+                    a.setAttribute('target', '_blank')
+                }
+            })
+		</script>
         <!-- Piwik --> 
         <script type="text/javascript">
             var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.thomaslevine.com/" : "http://piwik.thomaslevine.com/");
