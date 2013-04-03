@@ -17,3 +17,7 @@ So here are some slides.
   * News apps
   * Static images that do this
   * ...
+
+## How to
+Edit the slides by editing `slides.md`, then serve the current directory on a
+web server.
