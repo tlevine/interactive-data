@@ -19,5 +19,8 @@ So here are some slides.
   * ...
 
 ## How to
-Edit the slides by editing `slides.md`, then serve the current directory on a
-web server.
+Edit the slides by editing `slides.md`. Vertically-separated slides are
+separated by three line breaks, and horizontally-separated slides are separated
+by four line breaks.
+
+Serve the current directory on a web server.
