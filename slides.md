@@ -36,6 +36,8 @@
     DJL_064,1,1,1,0,1,1,0, ,Animal rights/LGBT rights,4,2, ,0,0,0,0,0,0,0,0,0,0,0,0, ,1,0,0,0,0,0,0,0,0,0,0,0,1,I don't care,93.8,self explanatory,3,0,0,0,0,0,0,0,1,I don't care,1,1,0,0,0, ,0,0,3,It's irrelevant,0,0, ,0, ,0, ,0, ,0, ,0, , , , , , , ,0,N/A,3,MBA,5,International Business,1,0,0,0,0,0, ,2,2, ,1,0, , ,10009.,1st ave,"2nd ave, 19th st",30,1990,2,0,1,0,0,0,0, ,2,0,1,0,0,0,0,0,0, ,14,0,0,0,0,0,1, , ,2,2,0,0,0,0,0,1,0,0,0,0,0,0, ,0,0,2,1,2, ,2, , , , , 
     DJL_063,1,0,0,0,0,0,0, ,Latin American Solidarity,5,0, ,1,0,0,0,0,0,0,0,0,0,0,1,Love for humanity,0,0,0,0,0,0,0,0,0,0,0,0,0, ,77.1,"There have been systematic cuts that affect the GC community, students in particular.  No democracy without public education as we learn from Chile",1,1,0,0,0,0,0,0,0, ,0,0,0,0,0, ,1,1,1, ,0,0, ,0, ,0, ,0, ,0, ,0, , , , , , , ,0, , , ,0, ,0,0,0,0,0,0, ,2,0, ,0,0, , , , , , , ,4,0,0,0,0,0,1,None,8,0,0,0,0,0,0,0,1,None,14,0,0,0,0,0,1,Citizen of the world, ,2,2,0,0,0,0,0,0,0,0,0,0,0,0, , , , , ,2, , , ,Thanks!!, , , 
 
+
+<!-- notmuch show --format=raw --part=1 id:AANLkTinDUJQWrrQY2Ac+UVaVfdn1PeVDOsGCRoywf469@mail.gmail.com | munpack -->
 gabe attacking a squid
 
 
