@@ -37,11 +37,15 @@
     DJL_063,1,0,0,0,0,0,0, ,Latin American Solidarity,5,0, ,1,0,0,0,0,0,0,0,0,0,0,1,Love for humanity,0,0,0,0,0,0,0,0,0,0,0,0,0, ,77.1,"There have been systematic cuts that affect the GC community, students in particular.  No democracy without public education as we learn from Chile",1,1,0,0,0,0,0,0,0, ,0,0,0,0,0, ,1,1,1, ,0,0, ,0, ,0, ,0, ,0, ,0, , , , , , , ,0, , , ,0, ,0,0,0,0,0,0, ,2,0, ,0,0, , , , , , , ,4,0,0,0,0,0,1,None,8,0,0,0,0,0,0,0,1,None,14,0,0,0,0,0,1,Citizen of the world, ,2,2,0,0,0,0,0,0,0,0,0,0,0,0, , , , , ,2, , , ,Thanks!!, , , 
 
 
+## Everything becomes data
+![A paper document](public_notice.png)
+
+
+## Oh no! Data!
 <!-- notmuch show --format=raw --part=1 id:AANLkTinDUJQWrrQY2Ac+UVaVfdn1PeVDOsGCRoywf469@mail.gmail.com | munpack -->
-gabe attacking a squid
+![Person attacking a squid](AmuckXSquidX1.gif)
 
-
-another data image, maybe big data this time
+How can we tame the data rather than fighting them?
 
 
 ## "Interactives"
@@ -110,7 +114,7 @@ Non-news examples
 Journalists tell stories because people understand stories.
 
 
-News apps
+## [Dollars for Docs](http://projects.propublica.org/docdollars/)
 
 
 Static images that do this
