@@ -68,16 +68,17 @@ Answer with
 
 (From [this talk](http://mbostock.github.com/d3/talk/20111116/#11))
 
-## Stop, Question, Frisk
-[![A chart](sqf.png)](http://www.guardian.co.uk/world/interactive/2012/mar/30/nypd-stop-and-frisk-marijuana-data)
 
-
-## [Popes](http://blogs.lanacion.com.ar/data/herramientas/todos-los-papas-en-un-timeline-js/)
-<iframe src="http://embed.verite.co/timeline/?source=0AifB8e3wY7YKdEd4N25RMjRNdjBHYnNtdzlNZnlnb0E&font=Bevan-PotanoSans&maptype=toner&lang=es&start_at_slide=270&width=645&height=650" width="100%" height="100%" frameborder="0"></iframe>
+## FMS Symphony
+[![FMS Symphony](fms-symphony.png)](http://fms.csvsoundsystem.com)
 
 
 ## Motivators of Protest
 [![A line plot](occupar.png)](http://occupydatanyc.org/2013/03/14/external-stresses-mediate-an-association-between-negative-perception-of-activism-and-a-decision-never-to-participate/)
+
+
+## [Popes](http://blogs.lanacion.com.ar/data/herramientas/todos-los-papas-en-un-timeline-js/)
+<iframe src="http://embed.verite.co/timeline/?source=0AifB8e3wY7YKdEd4N25RMjRNdjBHYnNtdzlNZnlnb0E&font=Bevan-PotanoSans&maptype=toner&lang=es&start_at_slide=270&width=645&height=650" width="100%" height="100%" frameborder="0"></iframe>
 
 
 
@@ -85,33 +86,36 @@ Answer with
 <!-- For each of the same examples, ask people why they thought so. -->
 
 
-an example
+## Airports
+[![Map of the united states](airports.png)](http://mbostock.github.com/d3/talk/20111116/airports.html)
 
-
-another example
-
-
-another example
-
-
-
-# Flashy pseudo interactivity
-
-
-Show
-
-
-a few
-
-
-examples
+(From [this talk](http://mbostock.github.com/d3/talk/20111116/#11))
 
 
 ## FMS Symphony
 [![FMS Symphony](fms-symphony.png)](http://fms.csvsoundsystem.com)
 
 
-# Story-telling
+## Motivators of Protest
+[![A line plot](occupar.png)](http://occupydatanyc.org/2013/03/14/external-stresses-mediate-an-association-between-negative-perception-of-activism-and-a-decision-never-to-participate/)
+
+
+## [Popes](http://blogs.lanacion.com.ar/data/herramientas/todos-los-papas-en-un-timeline-js/)
+<iframe src="http://embed.verite.co/timeline/?source=0AifB8e3wY7YKdEd4N25RMjRNdjBHYnNtdzlNZnlnb0E&font=Bevan-PotanoSans&maptype=toner&lang=es&start_at_slide=270&width=645&height=650" width="100%" height="100%" frameborder="0"></iframe>
+
+
+# Faking interactivity
+
+
+## [Treasury deposits and withdrawals](http://fms.csvsoundsystem.com/,/)
+<iframe src="http://fms.csvsoundsystem.com/,/area-charts-table-2-deps.html" frameborder="0" scrolling="no" width="100%" height="100%"></iframe>
+
+
+## Stop, Question, Frisk
+[![A chart](sqf.png)](http://www.guardian.co.uk/world/interactive/2012/mar/30/nypd-stop-and-frisk-marijuana-data)
+
+
+# Finding stories
 I think interactivity is about finding your own stories.
 
 
