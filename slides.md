@@ -134,11 +134,13 @@ I think this is what interactivity is about.
 
 
 
-# Summarizing Tom's theory about the word "interactivity"
-Meaning of "interactivity"
+# Conclusions
+#### Meaning of "interactivity"
+
 * When people seek "interactivity", they want to create or find their own stories.
 * Flashy things with movement give people an illusion of personalized story-telling.
 
-Further thoughts
+#### Further thoughts
+
 * Under this definition, static text or image can be interactive.
 * People understand stories, and people like stories about themselves.
