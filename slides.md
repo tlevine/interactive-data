@@ -122,7 +122,7 @@ I think this is what interactivity is about.
 
 
 ## Reading your tax bill
-[![Screenshot of a tax bill website reader thingy](taxbill.png)]http://thomaslevine.com/!/scarsdale-tax-bill/)
+[![Screenshot of a tax bill website reader thingy](taxbill.png)](http://thomaslevine.com/!/scarsdale-tax-bill/)
 
 
 ## Dollars for Docs

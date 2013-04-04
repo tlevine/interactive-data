@@ -6,7 +6,7 @@ that I'm [giving a talk](https://sphotos-a.xx.fbcdn.net/hphotos-prn1/64128_10151
 So here are some slides.
 
 ## Outline
-I account for 18 minutes so far.
+I account for 20 minutes, but will probably be more like 16 minutes. *Use a timer while giving the presentation.*
 
 * OMG Data (2 minutes)
 * Is this interactive?
@@ -16,7 +16,7 @@ I account for 18 minutes so far.
     * Ask one person for yes, one person for no and one person for neither
 * Flashy pseudo interactivity (1.5 minutes)
   * Show a few examples
-* I think interactivity is about finding your own stories. (2 minutes, that is, 40 seconds each)
+* I think interactivity is about finding your own stories. (3 minutes, that is, 1 minute each)
   * News apps
   * Static images that do this
   * ...
