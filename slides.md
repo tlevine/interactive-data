@@ -112,10 +112,6 @@ Answer with
 <iframe src="http://fms.csvsoundsystem.com/,/area-charts-table-2-deps.html" frameborder="0" scrolling="no" width="100%" height="100%"></iframe>
 
 
-## Stop, Question, Frisk
-[![A chart](sqf.png)](http://www.guardian.co.uk/world/interactive/2012/mar/30/nypd-stop-and-frisk-marijuana-data)
-
-
 
 # Finding your own stories
 I think this is what interactivity is about.
