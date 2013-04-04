@@ -6,13 +6,15 @@ that I'm [giving a talk](https://sphotos-a.xx.fbcdn.net/hphotos-prn1/64128_10151
 So here are some slides.
 
 ## Outline
-I account for 17 minutes so far.
+I account for 18 minutes so far.
 
 * OMG Data (2 minutes)
-* Is this interactive? 
+* Is this interactive?
+  * Introduce (0.5 minutes)
   * For each of some examples, raise your hand for yes, no, or stupid question (3 minutes, that is, 40 seconds each)
-  * For each of the same examples, ask people why they thought so. (8 minutes, that is, 2 minutes each)
-* Flashy pseudo interactivity (1 minute)
+  * For each of the same examples, ask people why they thought so. (8 minutes, that is, 2 minutes each, with 40 seconds per answer)
+    * Ask one person for yes, one person for no and one person for neither
+* Flashy pseudo interactivity (1.5 minutes)
   * Show a few examples
 * I think interactivity is about finding your own stories. (2 minutes, that is, 40 seconds each)
   * News apps

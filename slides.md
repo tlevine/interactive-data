@@ -37,8 +37,8 @@
     DJL_063,1,0,0,0,0,0,0, ,Latin American Solidarity,5,0, ,1,0,0,0,0,0,0,0,0,0,0,1,Love for humanity,0,0,0,0,0,0,0,0,0,0,0,0,0, ,77.1,"There have been systematic cuts that affect the GC community, students in particular.  No democracy without public education as we learn from Chile",1,1,0,0,0,0,0,0,0, ,0,0,0,0,0, ,1,1,1, ,0,0, ,0, ,0, ,0, ,0, ,0, , , , , , , ,0, , , ,0, ,0,0,0,0,0,0, ,2,0, ,0,0, , , , , , , ,4,0,0,0,0,0,1,None,8,0,0,0,0,0,0,0,1,None,14,0,0,0,0,0,1,Citizen of the world, ,2,2,0,0,0,0,0,0,0,0,0,0,0,0, , , , , ,2, , , ,Thanks!!, , , 
 
 
-## Data are sexy
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JwuEnyV1Cb0" frameborder="0" allowfullscreen></iframe>
+## Data are [sexy](http://www.youtube.com/watch?v=JwuEnyV1Cb0)
+<iframe width="1280" height="720" src="http://www.youtube.com/embed/JwuEnyV1Cb0" frameborder="0" allowfullscreen></iframe>
 
 
 ## Everything becomes data
@@ -117,7 +117,7 @@ Answer with
 
 
 
-# Finding your own stories
+# Finding personal stories
 I think this is what interactivity is about.
 
 
