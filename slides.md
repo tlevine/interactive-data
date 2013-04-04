@@ -5,7 +5,7 @@
 
 
 
-# zOMG Data!
+# zOMG! It's Data!
 <!-- CSV is the preferred file format. (http://csvsoundsystem.com) -->
 
     ID,A1a.participation,A1b_1.petition,A1b_2tshirt,A1b_3.dialogue,A1b_4.rally,A1b_5.direct,A1b_6.other,A1b_6.explain,A1c.issues,A2.extent,A3.education,A4a.motivation,A4b_PBCsupports,A4b_1.financial,A4b_2.job,A4b_3.childcare,A4b_4.belonging,A4b_5.training,A4b_6.schedule,A4b_7.support,A4b_8.work,A4b_9.info,A4b_10.school,A4b_11.other,A4b_11.Explain,A4c_PBCbarriers,A4c_1.financial,A4c_2.jobsecurity,A4c_3.childcare,A4c_4.time,A4c_5.support,A4c_6.work,A4c_7.info,A4c_8.school,A4c_9.surveillance,A4c_10.police,A4c_11.arrest,A4c_12.other,A4c_12.explain,A5.know,A6.describe,A7a.feeloverall,A7b_1.privatization,A7b_2.studentled,A7b_3.movement,A7b_4.common,A7b_5.democratic,A7b_6.nonviolent,A7b_7.direct,A7b_8.other,A7b_8.explain,A7c_1.ineffective,A7c_2.noconcern,A7c_3.unfocused,A7c_4.disruptive,A7c_5.other,A7c_5.explain,A8.ATTEND_YN,A8.DESIRE,A8.attend,A8.explain,A9_INJUSTICE,A9_1.financial,A9_1.explain,A9_2.police,A9_2.explain,A9_3.privatization,A9_3.explain,A9_4.quality,A9_4.explain,A9_5.exclusion,A9_5.explain,A9_6.other,A9_6.explain,A9b_1.financial,A9b_2.social,A9b_3.police,A9b_4.edright,A9b_5.other,A9b_5.explain,B1.CAMPUS,B1.campus_A,B2.Degree,B2.degree_A,B3.Major,B3.major_A,B4_1.day,B4_2.evening,B4_3.online,B4_4.classroom,B4_5.weekend,B4_6.other,B4_6.explain,B5a.typestudent,B5b.leave,B5b.explain,B6.workhoursCODED,B6.workhours,B6.acadhours,B6.unpaid,B7.zipcode,B7b.intersect1,B7b.intersect2,B7c.commute,B8.yearborn,B9_GENDER,B9_1.male,B9_2.female,B9_3.MTF,B9_4.FTM,B9_5.queer,B9_6.Other,B9_6.Explain,B10_SEXUALITY,B10_1.straight,B10_2.bisexual,B10_3.lesbian,B10_4.gay,B10_5.genderqueer,B10_6.asexual,B10_7.notsure,B10_8.other,B10_8.explain,B11_RACE,B11a_1.black,B11a_2.white,B11a_3.asian,B11a_4.nativeam,B11a_5.hispanic,B11a_6.other,B11a_6.explain,B11b.identity,B12a.parent,B12b.caregiver,B13_1.loan,B13_2.grants,B13_3.employment,B13_4.inherit,B13_5.workstudy,B13_6.family,B13_7.GI,B13_8.trust,B13_9.fellowship,B13_10.savings,B13_11.welfare,B13_12.Other,B13_12.Explain,B14a.currentdebt,B14b.futuredebt,B15.international,B16.tuition,B17.disabilities,B17.explain,B18.religion,B18.explain,B19.actcomments,B20.feedback,V154,V155
@@ -37,11 +37,15 @@
     DJL_063,1,0,0,0,0,0,0, ,Latin American Solidarity,5,0, ,1,0,0,0,0,0,0,0,0,0,0,1,Love for humanity,0,0,0,0,0,0,0,0,0,0,0,0,0, ,77.1,"There have been systematic cuts that affect the GC community, students in particular.  No democracy without public education as we learn from Chile",1,1,0,0,0,0,0,0,0, ,0,0,0,0,0, ,1,1,1, ,0,0, ,0, ,0, ,0, ,0, ,0, , , , , , , ,0, , , ,0, ,0,0,0,0,0,0, ,2,0, ,0,0, , , , , , , ,4,0,0,0,0,0,1,None,8,0,0,0,0,0,0,0,1,None,14,0,0,0,0,0,1,Citizen of the world, ,2,2,0,0,0,0,0,0,0,0,0,0,0,0, , , , , ,2, , , ,Thanks!!, , , 
 
 
+## Data are sexy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JwuEnyV1Cb0" frameborder="0" allowfullscreen></iframe>
+
+
 ## Everything becomes data
 ![A paper document](public_notice.png)
 
 
-## Oh no! Data!
+## Data scare people
 <!-- notmuch show --format=raw --part=1 id:AANLkTinDUJQWrrQY2Ac+UVaVfdn1PeVDOsGCRoywf469@mail.gmail.com | munpack -->
 ![Person attacking a squid](AmuckXSquidX1.gif)
 
